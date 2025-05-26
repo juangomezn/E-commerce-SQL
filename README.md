@@ -8,7 +8,7 @@ A continuación, se muestra el diagrama ER del sistema, generado con MySQL Workb
 
 ![Diagrama E-commerce](Diagrama.png)
 
-> 💡 Si no puedes ver la imagen, asegúrate de que el archivo `Diagrama.png` se encuentra en la raiz del repositorio para su visualizacion.
+> 💡 Si no puedes ver la imagen, el srchivo `Diagrama.png` se encuentra en la raiz del repositorio para su visualizacion.
 
 ## 📂 Estructura del Repositorio
 
